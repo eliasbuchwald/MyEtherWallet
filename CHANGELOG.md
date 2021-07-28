@@ -1,3 +1,13 @@
+### devop
+
+* create a way to avoid changelog conflicts [#3336](https://github.com/MyEtherWallet/MyEtherWallet/pull/3336)
+* remove remaining decision tree parts from quickhelp [#3345](https://github.com/MyEtherWallet/MyEtherWallet/pull/3345)
+* validate changelog files [#3348](https://github.com/MyEtherWallet/MyEtherWallet/pull/3348)
+
+### fix
+
+* * Check if object is there before calling disconnect [#3298](https://github.com/MyEtherWallet/MyEtherWallet/pull/3298)
+
 ### Fix
 
 * fix transaction confirmation total with fee [#3343](https://github.com/MyEtherWallet/MyEtherWallet/pull/3343)
